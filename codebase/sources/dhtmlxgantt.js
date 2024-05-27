@@ -9,6 +9,7 @@ To use dhtmlxGantt in non-GPL projects (and get Pro version of the product), ple
 
 (c) XB Software
 
+
 */
 (function webpackUniversalModuleDefinition(root, factory) {
 	if(typeof exports === 'object' && typeof module === 'object')
