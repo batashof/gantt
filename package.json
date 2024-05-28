@@ -20,9 +20,12 @@
     "browser"
   ],
   "author": "DHTMLX",
-  "license": "GPL-2.0",
+  "license": "SEE LICENSE IN license.txt",
   "bugs": {
     "url": "https://github.com/DHTMLX/gantt/issues"
   },
-  "homepage": "https://github.com/DHTMLX/gantt#readme"
+  "homepage": "https://github.com/DHTMLX/gantt#readme",
+  "scripts": {
+    "start": "cd backend && npm install && npm start"
+  }
 }
